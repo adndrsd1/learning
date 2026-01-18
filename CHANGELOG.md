@@ -2,6 +2,14 @@
 
 <!-- version list -->
 
+## v1.1.1 (2026-01-18)
+
+### Bug Fixes
+
+- Update deployment trigger ([#4](https://github.com/IoT-Smart-Hydroponic/learning/pull/4),
+  [`2ce9498`](https://github.com/IoT-Smart-Hydroponic/learning/commit/2ce9498e58c2ff7e75437da070bd118240e65623))
+
+
 ## v1.1.0 (2026-01-18)
 
 ### Features
