@@ -2,6 +2,21 @@
 
 <!-- version list -->
 
+## v1.1.2 (2026-01-19)
+
+### Bug Fixes
+
+- Update version in uv.lock and configure semantic release settings
+  ([#6](https://github.com/IoT-Smart-Hydroponic/learning/pull/6),
+  [`8905b6b`](https://github.com/IoT-Smart-Hydroponic/learning/commit/8905b6b788455340d9dbe8ec5816e3813b4492da))
+
+### Documentation
+
+- Add comprehensive Git documentation
+  ([#5](https://github.com/IoT-Smart-Hydroponic/learning/pull/5),
+  [`09671b9`](https://github.com/IoT-Smart-Hydroponic/learning/commit/09671b90790d0ddf72f95483f290cd79fc52590f))
+
+
 ## v1.1.1 (2026-01-18)
 
 ### Bug Fixes
